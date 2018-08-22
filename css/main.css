@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+    font-family: 'Righteous', cursive;   
+}
+#logo{
+    font-size: 28px;
+}   
+
+.sidebar{
+    background-color: #00BFFF;
+}
+
+.navbar{
+    background-color: #00BFFF;
+}
+.navbar a {
+    color: white;    
+
+}
+
+a{
+    color: black;
+}

@@ -1,0 +1,23 @@
+.sportsVenue{
+    height: 80%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.SoccerGreen{
+    color: chartreuse;   
+}
+
+.sportsVenue img:hover{
+    
+    color: #fff;
+  
+  
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+     
+    box-shadow: 15px -10px 3px chartreuse;
+    -webkit-box-shadow: 15px -10px 3px chartreuse;
+    -moz-box-shadow: 15px -10px 3px chartreuse;
+
+}
